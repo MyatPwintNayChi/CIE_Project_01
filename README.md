@@ -1,5 +1,7 @@
 # AWS VPC Infrastructure Setup Guide
 
+##  Security Architecture Summary
+![Architecture Overview](CIESession_06.png)
 ##  Architecture Overview
 
 * **Region**: `ap-southeast-1` (Singapore)
@@ -97,7 +99,6 @@
 * **Security Group**: Assign `Counting-sg`
 * **Port Configuration**: App runs on TCP `8081`
 
----
+### Dashboard Counting Web
+![Dashboard Counting App](Dashboard_Counting01.png)
 
-##  Security Architecture Summary
-![Architecture Overview](CIESession_06.png)
