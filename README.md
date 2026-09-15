@@ -100,3 +100,4 @@
 ---
 
 ##  Security Architecture Summary
+![Architecture Overview](CIESession_06.png)
